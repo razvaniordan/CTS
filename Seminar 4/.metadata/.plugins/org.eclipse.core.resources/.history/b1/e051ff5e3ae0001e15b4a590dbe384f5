@@ -1,0 +1,16 @@
+package simple_factory;
+
+import simple_factory.SimpleFactory_Ex1.Animal;
+import simple_factory.SimpleFactory_Ex1.AnimalFactory;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Animal dog = AnimalFactory.createAnimal("Dog");
+		dog.sound();
+		
+		Animal cat = AnimalFactory.createAnimal("Cat");
+		cat.sound();
+	}
+
+}

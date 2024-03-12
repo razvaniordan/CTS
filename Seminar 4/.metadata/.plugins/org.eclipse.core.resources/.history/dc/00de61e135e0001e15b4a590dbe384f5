@@ -1,0 +1,8 @@
+package ro.ase.cts.lab04;
+
+public class Singleton_Ex1 {
+	
+	private static Singleton_Ex1 instance;
+	
+	private Singleton_Ex1();
+}

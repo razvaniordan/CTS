@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\aa Facultate\Anul 3 semestrul 2\CTS\Seminar 4\.metadata\.plugins\org.eclipse.jdt.core
+2269155253.index
+1865797976.index
+1091347983.index
